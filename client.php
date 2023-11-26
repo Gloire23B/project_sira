@@ -31,7 +31,7 @@ if (!isset($_SESSION['id_membre'])) {
 
             <!-- Carte Agence -->
             <div class="card mt-4">
-                <img src="image_agence.jpg" class="card-img-top" alt="Image Agence">
+                <img src="img/agence1.jpg" class="card-img-top" alt="Image Agence">
                 <div class="card-body">
                     <h5 class="card-title">Agence</h5>
                     <p class="card-text">Description de l'agence.</p>
@@ -41,7 +41,7 @@ if (!isset($_SESSION['id_membre'])) {
 
             <!-- Carte Vehicule -->
             <div class="card mt-4">
-                <img src="image_vehicule.jpg" class="card-img-top" alt="Image Vehicule">
+                <img src="img/v1.jpg" class="card-img-top" alt="Image Vehicule">
                 <div class="card-body">
                     <h5 class="card-title">Vehicule</h5>
                     <p class="card-text">Description du véhicule.</p>
@@ -51,7 +51,7 @@ if (!isset($_SESSION['id_membre'])) {
 
             <!-- Carte Location -->
             <div class="card mt-4">
-                <img src="image_location.jpg" class="card-img-top" alt="Image Location">
+                <img src="img/loc1.jpg" class="card-img-top" alt="Image Location">
                 <div class="card-body">
                     <h5 class="card-title">Location</h5>
                     <p class="card-text">Description de la location.</p>

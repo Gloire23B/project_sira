@@ -33,11 +33,11 @@ if (!isset($_SESSION['id_membre']) || $_SESSION['statut'] !== 'ADMIN') {
                 <!-- Carte Agence -->
                 <div class="col-md-3">
                     <div class="card mt-4">
-                        <img src="image_agence.jpg" class="card-img-top" alt="Image Agence">
+                        <img src="img/agence1.jpg" class="card-img-top" alt="Image Agence">
                         <div class="card-body">
                             <h5 class="card-title">Agence</h5>
-                            <p class="card-text">Description de l'agence.</p>
-                            <a href="#" class="btn btn-primary">Savoir plus</a>
+                            <p class="card-text">Description de l'agence. Continually grow enterprise users before B2C total linkage. Credibly synthesize one-to-one platforms for go forward best practices.</p>
+                            <a href="agence.php" class="btn btn-primary">Savoir plus</a>
                         </div>
                     </div>
                 </div>
@@ -45,11 +45,11 @@ if (!isset($_SESSION['id_membre']) || $_SESSION['statut'] !== 'ADMIN') {
                 <!-- Carte Vehicule -->
                 <div class="col-md-3">
                     <div class="card mt-4">
-                        <img src="image_vehicule.jpg" class="card-img-top" alt="Image Vehicule">
+                        <img src="img/v1.jpg" class="card-img-top" alt="Image Vehicule">
                         <div class="card-body">
                             <h5 class="card-title">Vehicule</h5>
-                            <p class="card-text">Description du véhicule.</p>
-                            <a href="#" class="btn btn-primary">Savoir plus</a>
+                            <p class="card-text">Description du véhicule. Continually grow enterprise users before B2C total linkage. Credibly synthesize one-to-one platforms for go forward best practices.</p>
+                            <a href="vehicule.php" class="btn btn-primary">Savoir plus</a>
                         </div>
                     </div>
                 </div>
@@ -57,11 +57,11 @@ if (!isset($_SESSION['id_membre']) || $_SESSION['statut'] !== 'ADMIN') {
                 <!-- Carte Location -->
                 <div class="col-md-3">
                     <div class="card mt-4">
-                        <img src="image_location.jpg" class="card-img-top" alt="Image Location">
+                        <img src="img/loc1.jpg" class="card-img-top" alt="Image Location">
                         <div class="card-body">
                             <h5 class="card-title">Location</h5>
-                            <p class="card-text">Description de la location.</p>
-                            <a href="#" class="btn btn-primary">Savoir plus</a>
+                            <p class="card-text">Description de la location. Continually grow enterprise users before B2C total linkage. Credibly synthesize one-to-one platforms for go forward best practices.</p>
+                            <a href="location.php" class="btn btn-primary">Savoir plus</a>
                         </div>
                     </div>
                 </div>
@@ -69,11 +69,11 @@ if (!isset($_SESSION['id_membre']) || $_SESSION['statut'] !== 'ADMIN') {
                 <!-- Carte Membre -->
                 <div class="col-md-3">
                     <div class="card mt-4">
-                        <img src="image_membre.jpg" class="card-img-top" alt="Image Membre">
+                        <img src="img/membre.jpg" class="card-img-top" alt="Image Membre">
                         <div class="card-body">
                             <h5 class="card-title">Membre</h5>
-                            <p class="card-text">Description du membre.</p>
-                            <a href="#" class="btn btn-primary">Savoir plus</a>
+                            <p class="card-text">Description du membre. Continually grow enterprise users before B2C total linkage. Credibly synthesize one-to-one platforms for go forward best practices.</p>
+                            <a href="membre.php" class="btn btn-primary">Savoir plus</a>
                         </div>
                     </div>
                 </div>
