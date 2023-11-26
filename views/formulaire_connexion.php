@@ -46,13 +46,6 @@
                 <button type="submit" class="btn btn-primary">Connexion</button>
             </form>
 
-            <!-- Liens pour réessayer ou annuler -->
-            <div class="mt-3">
-                <a href="formulaire_connexion.php" class="btn btn-secondary">Réessayer</a>
-            
-                <!-- Bouton de retour à la page précedente en utilisant lhistorique de navigation-->
-                <button class="btn btn-primary" onclick="retourPage()">Retour</button>
-            </div>
         </div>
     </div>
 </div>
@@ -61,11 +54,5 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 
-<!-- Script JavaScript pour retourner à la page précédente -->
-<script>
-    function retourPage() {
-        window.history.back();
-    }
-</script>
 </body>
 </html>

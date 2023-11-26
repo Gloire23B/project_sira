@@ -55,7 +55,6 @@
                 </div>
 
                 <button type="submit" class="btn btn-primary">Enregistrer</button>
-                <a href="../agence.php" class="btn btn-primary">Afficher les agences disponibles</a>
 
                 <!-- Bouton de retour à la page précedente en utilisant lhistorique de navigation-->
                 <button class="btn btn-primary" onclick="retourPage()">Retour</button>

@@ -69,10 +69,7 @@
                 </div>
 
                 <button type="submit" class="btn btn-primary">Créer un compte</button>
-                <a href="../membre.php" class="btn btn-primary">Afficher les membres</a>
 
-                <!-- Bouton de retour à la page précedente en utilisant lhistorique de navigation-->
-                <button class="btn btn-primary" onclick="retourPage()">Retour</button>
             </form>
         </div>
     </div>
@@ -82,11 +79,5 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 
-<!-- Script JavaScript pour retourner à la page précédente -->
-<script>
-    function retourPage() {
-        window.history.back();
-    }
-</script>
 </body>
 </html>
