@@ -1,7 +1,7 @@
 <?php
 
-include 'views/v_index.php';
-
-include 'footer.php';
+// Redirection to the views/v_index.php
+header('Location: views/v_index.php');
+exit();
 
 ?>
